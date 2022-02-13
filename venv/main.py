@@ -11,4 +11,4 @@ other.register_handlers_other(dp)
 
 executor.start_polling(dp, skip_updates=True, on_startup=on_startup)
 
-dlsfk;gjl;dskg;ds
+ввв
