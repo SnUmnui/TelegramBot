@@ -1,7 +1,6 @@
-#pip install beautifulsoup4
-#pip install requests
 import requests
 from bs4 import BeautifulSoup as bs
+
 
 def parser_rait():
     college_url = 'http://techcol.lviv.ua'
@@ -10,14 +9,14 @@ def parser_rait():
     pdf_url = get_pdf_url(html)
     return college_url + pdf_url
 
+
 def get_html(url):
     r = requests.get(url)
     return r.text
 
+
 def get_pdf_url(html):
     soup = bs(html, 'html.parser')
     span = soup.find('span', class_='text')
-    pdf_url = span.find('a', rel = 'alternate').get('href')
+    pdf_url = span.find('a', rel='alternate').get('href')
     return pdf_url
-
-print(parser_rait())
