@@ -1,9 +1,5 @@
 from aiogram import types, Dispatcher
-from Handlers.parser.parser_raiting import parser_rait
-
-
-raiting = parser_rait()
-
+from Handlers.parser.parser_pdf import parser_pdf
 
 # @dp.message_handler(commands=['start'])
 async def process_start_command(message: types.Message):
@@ -19,6 +15,9 @@ async def process_help_command(message: types.Message):
 
 # @dp.message_handler(commands=['raiting'])
 async def process_raiting_command(message: types.Message):
+    search_item = 'admission rules'
+    raiting = parser_pdf(search_item)
+
     await message.reply(raiting)
 
 

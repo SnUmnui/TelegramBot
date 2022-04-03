@@ -1,2 +1,2 @@
-from Handlers.parser import parser_raiting
+from Handlers.parser import parser_pdf
 

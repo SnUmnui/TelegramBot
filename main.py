@@ -1,3 +1,4 @@
+#pip install aiogram
 from aiogram.utils import executor
 from Handlers import client
 from create_bot import dp
