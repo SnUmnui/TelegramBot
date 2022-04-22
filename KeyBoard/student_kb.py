@@ -4,5 +4,5 @@ raiting = KeyboardButton('Рейтинг студентів')
 bill = KeyboardButton('Рахунок для оплати')
 contact = KeyboardButton('Контакти')
 
-kb_client = ReplyKeyboardMarkup()
-kb_client.add(raiting).add(bill).add(contact)
+kb_student = ReplyKeyboardMarkup()
+kb_student.add(raiting).add(bill).add(contact)
