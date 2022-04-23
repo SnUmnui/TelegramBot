@@ -1,8 +1,9 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
 admission_rules = KeyboardButton('Правила прийому')
-cost_education = KeyboardButton('Вартість авчання')
+cost_education = KeyboardButton('Вартість навчання')
+back = KeyboardButton('Назад')
 #contact = KeyboardButton('Контакти')
 
-abityrient_kb = ReplyKeyboardMarkup()
-abityrient_kb.add(admission_rules).add(cost_education)
+abityrient_kb = ReplyKeyboardMarkup(resize_keyboard=True)
+abityrient_kb.row(admission_rules, cost_education).add(back)
