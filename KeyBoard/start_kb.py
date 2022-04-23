@@ -1,7 +1,7 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
 student = KeyboardButton('Студент')
-ab = KeyboardButton('Абітурієнт')
+entrant = KeyboardButton('Абітурієнт')
 
-kb = ReplyKeyboardMarkup()
-kb.add(student).add(ab)
+kb = ReplyKeyboardMarkup(resize_keyboard=True)
+kb.row(student, entrant)
