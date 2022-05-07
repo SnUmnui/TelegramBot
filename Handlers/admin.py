@@ -40,7 +40,7 @@ async def cancel(message: types.Message, state: FSMContext):
 
 
 def register_handlers_admin(dp: Dispatcher):
-    dp.register_message_handler(enter_photo, commands='admin', state=None)
+    dp.register_message_handler(enter_photo, Text(equals='admin'), state=None)
     dp.register_message_handler(st1, content_types=['photo'], state=FSM_Admin.tuition_bill_photo)
     dp.register_message_handler(st2, state=FSM_Admin.description_tuition_bill)
     dp.register_message_handler(cancel, state="*", commands='cancel')
