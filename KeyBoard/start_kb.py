@@ -2,7 +2,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemo
 
 student = KeyboardButton('Студенту')
 entrant = KeyboardButton('Абітурієнту')
-dep = KeyboardButton('dep')
+dep = KeyboardButton('Відділення')
 
 mainMenu = ReplyKeyboardMarkup(resize_keyboard=True)
 mainMenu.row(student, entrant).add(dep)
