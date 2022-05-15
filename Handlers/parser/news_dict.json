@@ -1,9 +1,4 @@
 {
-    "147": {
-        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/147-privitannya-z-voskresinnyam-khristovim",
-        "titel_news": "Привітання з Воскресінням Христовим",
-        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/4-.jpg"
-    },
     "146": {
         "url_news": "http://techcol.lviv.ua//index.php/8-novyny/146-pamiati-heroiv-nebesnoi-sotni",
         "titel_news": "Пам'яті Героїв Небесної Сотні",
@@ -43,5 +38,10 @@
         "url_news": "http://techcol.lviv.ua//index.php/8-novyny/131-den-pamiati-zhertv-holodomoru-zapalimo-svichky",
         "titel_news": "День пам'яті жертв Голодомору. Запалімо свічки!",
         "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2021/Screenshot_6.png"
+    },
+    "147": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/147-privitannya-z-voskresinnyam-khristovim",
+        "titel_news": "Привітання з Воскресінням Христовим",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/4-.jpg"
     }
 }
