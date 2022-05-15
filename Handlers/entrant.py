@@ -11,9 +11,17 @@ async def ruls(message: types.Message):
 
 
 async def bill(message: types.Message):
-    await message.answer("contact +380668698666")
+    await message.answer("87424")
 
+async def specialty(message: types.Message):
+    await message.answer(""
+                         "Відділення інформаційних технологій та комп'ютерної техніки"
+                         "Відділення автоматизації та комп'ютерно-інтегрованих технологій"
+                         "Інженерно-економічне відділення"
+                         "Ходорівське відділення"
+                         "")
 
 def register_handlers_entrant(dp: Dispatcher):
     dp.register_chat_join_request_handler(ruls, Text(equals="Правила прийому"))
     dp.register_message_handler(bill, Text(equals="Вартість навчання"))
+    dp.register_message_handler(specialty, Text(equals="Спеціальності"))
