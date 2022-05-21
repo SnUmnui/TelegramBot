@@ -1,47 +1,47 @@
 {
+    "148": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/148-mizhnarodnyi-den-vyshyvanky",
+        "title_news": "РњС–Р¶РЅР°СЂРѕРґРЅРёР№ РґРµРЅСЊ РІРёС€РёРІР°РЅРєРё",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/Screenshot_10.png"
+    },
+    "147": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/147-privitannya-z-voskresinnyam-khristovim",
+        "title_news": "РџСЂРёРІС–С‚Р°РЅРЅСЏ Р· Р’РѕСЃРєСЂРµСЃС–РЅРЅСЏРј РҐСЂРёСЃС‚РѕРІРёРј",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/4-.jpg"
+    },
     "146": {
         "url_news": "http://techcol.lviv.ua//index.php/8-novyny/146-pamiati-heroiv-nebesnoi-sotni",
-        "titel_news": "Пам'яті Героїв Небесної Сотні",
+        "title_news": "РџР°Рј'СЏС‚С– Р“РµСЂРѕС—РІ РќРµР±РµСЃРЅРѕС— РЎРѕС‚РЅС–",
         "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/Screenshot_18.png"
     },
     "145": {
         "url_news": "http://techcol.lviv.ua//index.php/8-novyny/145-onlain-fleshmob-do-dnia-yednosti",
-        "titel_news": "Онлайн-флешмоб до Дня Єдності",
+        "title_news": "РћРЅР»Р°Р№РЅ-С„Р»РµС€РјРѕР± РґРѕ Р”РЅСЏ Р„РґРЅРѕСЃС‚С–",
         "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/Screenshot_17.png"
     },
     "144": {
         "url_news": "http://techcol.lviv.ua//index.php/8-novyny/144-onlain-zustrich-studentiv-koledzhu-z-predstavnykamy-kiberpolitsii-ta-iuvenalnoi-politsii",
-        "titel_news": "Онлайн-зустріч студентів коледжу з представниками кіберполіції та ювенальної поліції",
+        "title_news": "РћРЅР»Р°Р№РЅ-Р·СѓСЃС‚СЂС–С‡ СЃС‚СѓРґРµРЅС‚С–РІ РєРѕР»РµРґР¶Сѓ Р· РїСЂРµРґСЃС‚Р°РІРЅРёРєР°РјРё РєС–Р±РµСЂРїРѕР»С–С†С–С— С‚Р° СЋРІРµРЅР°Р»СЊРЅРѕС— РїРѕР»С–С†С–С—",
         "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/10-02-22/001.jpg"
     },
     "143": {
         "url_news": "http://techcol.lviv.ua//index.php/8-novyny/143-den-vidkrytykh-dverei-3",
-        "titel_news": "День відкритих дверей в режимі онлайн",
+        "title_news": "Р”РµРЅСЊ РІС–РґРєСЂРёС‚РёС… РґРІРµСЂРµР№ РІ СЂРµР¶РёРјС– РѕРЅР»Р°Р№РЅ",
         "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/05-02-22/02.jpg"
     },
     "140": {
         "url_news": "http://techcol.lviv.ua//index.php/8-novyny/140-vykhovna-hodyna-do-dnia-sobornosti-ukrainy-ta-dnia-pamiati-heroiv-krut",
-        "titel_news": "Виховна година до Дня Соборності України та Дня пам'яті Героїв Крут",
+        "title_news": "Р’РёС…РѕРІРЅР° РіРѕРґРёРЅР° РґРѕ Р”РЅСЏ РЎРѕР±РѕСЂРЅРѕСЃС‚С– РЈРєСЂР°С—РЅРё С‚Р° Р”РЅСЏ РїР°Рј'СЏС‚С– Р“РµСЂРѕС—РІ РљСЂСѓС‚",
         "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/22-01-22.jpg"
     },
     "136": {
         "url_news": "http://techcol.lviv.ua//index.php/8-novyny/136-vitannia-studentiv-z-novym-rokom-ta-rizdvom-khrystovym",
-        "titel_news": "Вітання студентів з Новим Роком та Різдвом Христовим",
+        "title_news": "Р’С–С‚Р°РЅРЅСЏ СЃС‚СѓРґРµРЅС‚С–РІ Р· РќРѕРІРёРј Р РѕРєРѕРј С‚Р° Р С–Р·РґРІРѕРј РҐСЂРёСЃС‚РѕРІРёРј",
         "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/IMG-133f8eeb3e95e6a76413c608df7afbc1-V.jpg"
     },
     "135": {
         "url_news": "http://techcol.lviv.ua//index.php/8-novyny/135-mykolai-dlia-krykhitok",
-        "titel_news": "Миколай для крихіток",
+        "title_news": "Миколай для крихіток",
         "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2021/IMG-c8c7d0d7be1e95e9b503df037aae99b9-V.jpg"
-    },
-    "131": {
-        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/131-den-pamiati-zhertv-holodomoru-zapalimo-svichky",
-        "titel_news": "День пам'яті жертв Голодомору. Запалімо свічки!",
-        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2021/Screenshot_6.png"
-    },
-    "147": {
-        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/147-privitannya-z-voskresinnyam-khristovim",
-        "titel_news": "Привітання з Воскресінням Христовим",
-        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/4-.jpg"
     }
 }

@@ -4,13 +4,16 @@ from Handlers import student, admin, entrant, other
 from KeyBoard import kb_student, mainMenu, abityrient_kb, choice_dep
 from aiogram.dispatcher.filters import Text
 from create_bot import dp, bot
+from sqlighter import SQLighter
 
 # async def on_startup():
 # print("Bot started")
 
-
+db = SQLighter('db.db')
 @dp.message_handler(commands=['start'])
 async def process_start_command(message: types.Message):
+    if (not db.subscriber_exists(message.from_user.id)):
+        db.add_subscriber(message.from_user.id)
     await bot.send_message(message.from_user.id, "hhhh", reply_markup=mainMenu)
 
 @dp.message_handler(Text(equals="Студенту"))
