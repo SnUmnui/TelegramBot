@@ -1,2 +1,2 @@
-from Handlers.parser import parser_pdf
+from Handlers.parser import parser_pdf, paresr_news
 

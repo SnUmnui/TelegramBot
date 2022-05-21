@@ -36,7 +36,7 @@ def get_all_news(html, url):
     return news_dict
 
 def check_news_update():
-     with open("news_dict.json", encoding='utf-8') as file:
+     with open("D:/binance/bot/Handlers/parser/news_dict.json", encoding='utf-8') as file:
          news_dict = json.load(file)
 
      url = "http://techcol.lviv.ua/"
