@@ -19,4 +19,3 @@ async def dill(message: types.Message):
 def register_handlers_client(dp: Dispatcher):
     dp.register_message_handler(raiting_student_handler, Text(equals="Рейтинг студентів"))
     dp.register_message_handler(dill, Text(equals="Рахунок для оплати"))
-

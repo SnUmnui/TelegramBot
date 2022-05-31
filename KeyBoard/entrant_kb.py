@@ -1,7 +1,7 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
 admission_rules = KeyboardButton('Правила прийому')
-cost_education = KeyboardButton('Вартість навчання')
+cost_education = KeyboardButton('Спеціальності')
 back = KeyboardButton('Назад')
 
 

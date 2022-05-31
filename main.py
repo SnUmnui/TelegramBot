@@ -6,9 +6,6 @@ from aiogram.dispatcher.filters import Text
 from create_bot import dp, bot
 from sqlighter import SQLighter
 
-# async def on_startup():
-# print("Bot started")
-
 db = SQLighter('db.db')
 @dp.message_handler(commands=['start'])
 async def process_start_command(message: types.Message):
@@ -66,4 +63,3 @@ student.register_handlers_client(dp)
 entrant.register_handlers_entrant(dp)
 
 executor.start_polling(dp, skip_updates=True)  # on_startup=on_startup
-

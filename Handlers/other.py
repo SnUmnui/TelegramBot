@@ -36,13 +36,12 @@ async def command_pars(wait_for, first_wait):
 				if status == 1:
 					for key, value in sorted(fresh_news_dict.items()):
 						print("------------------------------")
-						free = f"{value['title_news']}\n" \
-							   f"{value['url_news']}"
+						news = f"{value['title_news']}\n"
 						links = value['url_news']
 						link_button = InlineKeyboardMarkup()
 						links = InlineKeyboardButton(text="Детальніше", url=value["url_news"])
 						link_button.add(links)
-						await bot.send_photo(id_, free ,reply_markup=link_button)
+						await bot.send_photo(id_, value['photo_news'], news, reply_markup=link_button)
 				else:
 					print("unsub")
 				await asyncio.sleep(wait_for)

@@ -1,3 +1,47 @@
 {
-
+    "150": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/150-zapratsiuvala-posluha-odnochasnoho-oformlennia-id-kartky-ta-zakordonnoho-pasporta",
+        "title_news": "Запрацювала послуга одночасного оформлення ID-картки та закордонного паспорта",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/Screenshot_12.png"
+    },
+    "148": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/148-mizhnarodnyi-den-vyshyvanky",
+        "title_news": "Міжнародний день вишиванки",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/Screenshot_10.png"
+    },
+    "146": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/146-pamiati-heroiv-nebesnoi-sotni",
+        "title_news": "Пам'яті Героїв Небесної Сотні",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/Screenshot_18.png"
+    },
+    "145": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/145-onlain-fleshmob-do-dnia-yednosti",
+        "title_news": "Онлайн-флешмоб до Дня Єдності",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/Screenshot_17.png"
+    },
+    "144": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/144-onlain-zustrich-studentiv-koledzhu-z-predstavnykamy-kiberpolitsii-ta-iuvenalnoi-politsii",
+        "title_news": "Онлайн-зустріч студентів коледжу з представниками кіберполіції та ювенальної поліції",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/10-02-22/001.jpg"
+    },
+    "140": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/140-vykhovna-hodyna-do-dnia-sobornosti-ukrainy-ta-dnia-pamiati-heroiv-krut",
+        "title_news": "Виховна година до Дня Соборності України та Дня пам'яті Героїв Крут",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2022/22-01-22.jpg"
+    },
+    "135": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/135-mykolai-dlia-krykhitok",
+        "title_news": "Миколай для крихіток",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2021/IMG-c8c7d0d7be1e95e9b503df037aae99b9-V.jpg"
+    },
+    "131": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/131-den-pamiati-zhertv-holodomoru-zapalimo-svichky",
+        "title_news": "День пам'яті жертв Голодомору. Запалімо свічки!",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2021/Screenshot_6.png"
+    },
+    "130": {
+        "url_news": "http://techcol.lviv.ua//index.php/8-novyny/130-nahorodzhennia-naikrashchykh-studentiv-lvivshchyny-2",
+        "title_news": "Нагородження найкращих студентів Львівщини",
+        "photo_news": "http://techcol.lviv.ua/images/mnwallimages/400x300/images/2021/24-11-21/002.jpg"
+    }
 }
