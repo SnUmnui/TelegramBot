@@ -12,11 +12,11 @@ async def raiting_student_handler(message: types.Message):
     await message.answer(raiting)
 
 
-async def contact_handler(message: types.Message):
+async def dill(message: types.Message):
     
-    await message.answer("contact +380668698666")
+    await message.answer("4380362518203")
 
 def register_handlers_client(dp: Dispatcher):
     dp.register_message_handler(raiting_student_handler, Text(equals="Рейтинг студентів"))
-    dp.register_message_handler(contact_handler, Text(equals="Інформація та контакти"))
+    dp.register_message_handler(dill, Text(equals="Рахунок для оплати"))
 

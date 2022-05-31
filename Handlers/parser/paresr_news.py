@@ -2,7 +2,7 @@ import requests
 import json
 from bs4 import BeautifulSoup as bs
 from os import path
-
+from os import path
 def parser_news():
     url = 'http://techcol.lviv.ua/'
     html = get_html(url)
